@@ -1,0 +1,8 @@
+# Jekyll
+exclude: nbproject, README.md, CNAME
+permalink: /:title/
+url: http://html-validation.simplytestable.com
+
+# Site
+simplytestable:
+    title: Simply Testable HTML Validation Test Suite
